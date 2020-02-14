@@ -134,4 +134,47 @@ body{
 .feature-description{
 
 }
-
+.contact-section {
+    font-family: sans-serif;
+    background-color: #7dcac4;
+    box-shadow: 2px 2px 4px #888;
+    
+    
+}
+.contact-section h1 {
+    text-align: center;
+}
+.data-container {
+   width: 320px;
+   margin: auto;
+    
+}
+.label{
+    
+}
+.data-box {
+    
+    padding: 10px;
+    
+}
+.boxes {
+    border-radius: 5px;
+    width: 300px;
+}
+.send-button {
+   width: 100%;
+   padding: 2px;
+  
+    
+}
+.contact-button {
+    background-color: rgb(245, 183, 13);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 270px;
+    margin-bottom: 20px;
+}
+.footer {
+    text-align: center;
+    font-family: sans-serif;
+}
